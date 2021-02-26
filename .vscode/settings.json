@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/home/roman/Рабочий стол/dj2/venv/bin/python",
+    "python.pythonPath": "/usr/bin/python3",
     "python.formatting.provider": "black",
     "python.formatting.blackArgs": [
         "-l 120"
